@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello...! I'am Ziqri 👋
+
+💬 You can find me on [Twitter](https://twitter.com/alziqziq)
+👷 I'am currently work at [Tiket.com](https://www.tiket.com/pesawat) as a Frontend Engineer.
+✍️ I sometimes write things on [Medium](https://medium.com/@alziqziq) in indonesian language.
 
 <!--
 **alziqziq/alziqziq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
