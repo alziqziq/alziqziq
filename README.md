@@ -1,7 +1,9 @@
-### Hello...! I'am Ziqri 👋
+## Hello...! I'am Ziqri 👋
 
 💬 You can find me on [Twitter](https://twitter.com/alziqziq)  
+
 👷 I'am currently work at [Tiket.com](https://www.tiket.com/pesawat) as a Frontend Engineer.  
+
 ✍️ I sometimes write things on [Medium](https://medium.com/@alziqziq) in indonesian language.
 
 <!--
